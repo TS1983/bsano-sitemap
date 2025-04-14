@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://bsano.app/</loc>
+    <lastmod>2025-04-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bsano.app/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bsano.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://bsano.app/ca/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bsano.app/"/>
+  </url>
+  <url>
+    <loc>https://bsano.app/es/</loc>
+    <lastmod>2025-04-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bsano.app/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bsano.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://bsano.app/ca/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bsano.app/"/>
+  </url>
+  <url>
+    <loc>https://bsano.app/ca/</loc>
+    <lastmod>2025-04-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bsano.app/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bsano.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://bsano.app/ca/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bsano.app/"/>
+  </url>
+  <url>
+    <loc>https://bsano.app/auth</loc>
+    <lastmod>2025-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bsano.app/auth"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://bsano.app/es/auth"/>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://bsano.app/ca/auth"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bsano.app/auth"/>
+  </url>
+</urlset>
